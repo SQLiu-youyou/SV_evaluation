@@ -1,2 +1,2 @@
 # SV_evaluation
-This is Shiqi Liu's first repo
+The repo is mainly used to provide the key command in SV evaluation
